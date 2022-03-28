@@ -1,8 +1,8 @@
 {
-  "name": "game-math",
+  "name": "simple-game-math",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple Math Functions For Game Development",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
