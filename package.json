@@ -14,7 +14,6 @@
     "version" : "npm run format && git add -A src",
     "postversion" : "git push && git push --tags"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^27.4.1",
@@ -29,5 +28,7 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "keywords": ["game", "math", "utl"],
+  "author": "foopis23"
 }
