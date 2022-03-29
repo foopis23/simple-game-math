@@ -1,6 +1,6 @@
 {
   "name": "simple-game-math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Math Functions For Game Development",
   "main": "lib/index.js",
   "scripts": {
