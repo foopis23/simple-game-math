@@ -30,5 +30,6 @@
     "lib/**/*"
   ],
   "keywords": ["game", "math", "utl"],
-  "author": "foopis23"
+  "author": "foopis23",
+  "repository": {"url": "https://github.com/foopis23/simple-game-math", "type": "github"}
 }
