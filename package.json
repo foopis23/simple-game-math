@@ -1,6 +1,6 @@
 {
   "name": "simple-game-math",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Math Functions For Game Development",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "version" : "npm run format && git add -A src",
     "postversion" : "git push && git push --tags"
   },
-  "license": "ISC",
+  "license": "GNU General Public License v3.0",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
